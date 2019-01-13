@@ -1184,7 +1184,6 @@ STR_1807    :Kontrolfejl
 STR_1808    :{WINDOW_COLOUR_2}Sidste nedbrud: {BLACK}{STRINGID}
 STR_1809    :{WINDOW_COLOUR_2}Nuværende nedbrud: {OUTLINE}{RED}{STRINGID}
 STR_1810    :{WINDOW_COLOUR_2}Bærer:
-
 STR_1811    :Kan ikke bygge det her...
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
 STR_1813    :Forskellige objekter
@@ -3298,13 +3297,13 @@ STR_5823    :{SMALLFONT}{BLACK}Vis bannere med store bogstaver (RCT1 opførsel)
 STR_5824    :{SMALLFONT}{BLACK}Fjern lyn effekter{NEWLINE}under tordenvejr
 STR_5825    :{SMALLFONT}{BLACK}Hold musepilen inde i vinduet
 STR_5826    :{SMALLFONT}{BLACK}Invert right mouse dragging of the viewport
-STR_5827    :{SMALLFONT}{BLACK}Sets the colour scheme used for the GUI
+STR_5827    :{SMALLFONT}{BLACK}Angiv farve skemaet der bliver brugt til brugerinterfacet
 STR_5828    :{SMALLFONT}{BLACK}Changes what measurement format is used for distances, speed, etc.
 STR_5829    :{SMALLFONT}{BLACK}Changes what currency format is used. Purely visual, there is no exact exchange rate implementation
 STR_5830    :{SMALLFONT}{BLACK}Skifter sproget der bliver brugt
-STR_5831    :{SMALLFONT}{BLACK}Changes what format the{NEWLINE}temperature is displayed in
+STR_5831    :{SMALLFONT}{BLACK}Angiv i hvilket format{NEWLINE}temperaturen skal vises
 STR_5832    :{SMALLFONT}{BLACK}Vis height as generic units instead of measurement format set under “Distance and Speed”
-STR_5833    :{SMALLFONT}{BLACK}Changes what date format is used
+STR_5833    :{SMALLFONT}{BLACK}Skift viste datoformat
 STR_5834    :{SMALLFONT}{BLACK}Select which audio device OpenRCT2 will use
 STR_5835    :{SMALLFONT}{BLACK}Mute the game if the window loses focus
 STR_5836    :{SMALLFONT}{BLACK}Select music to use on the main menu.{NEWLINE}Selecting RCT1 theme requires that you copy 'data/css17.dat' from your RCT1 game folder to 'data/css50.dat' in your RCT2 folder, or set the path to RCT1 in the Diverse tab.
@@ -3324,11 +3323,11 @@ STR_5849    :{SMALLFONT}{BLACK}Automatically place{NEWLINE}newly hired staff mem
 STR_5850    :<not used anymore>
 STR_5851    :{SMALLFONT}{BLACK}Sets the default inspection interval{NEWLINE}on newly built forlystelser
 STR_5852    :{SMALLFONT}{BLACK}Set the name of the TwitchTV channel that will be used for Twitch integration
-STR_5853    :{SMALLFONT}{BLACK}Toggle sound effects on/off
-STR_5854    :{SMALLFONT}{BLACK}Toggle ride music on/off
+STR_5853    :{SMALLFONT}{BLACK}Slå lydeffekter til/fra
+STR_5854    :{SMALLFONT}{BLACK}Slå forlystelsesmusik til/fra
 STR_5855    :{SMALLFONT}{BLACK}Set regular fullscreen, borderless fullscreen{NEWLINE}or windowed display
 STR_5856    :{SMALLFONT}{BLACK}Set game resolution when in fullscreen mode
-STR_5857    :{SMALLFONT}{BLACK}Game options
+STR_5857    :{SMALLFONT}{BLACK}Spil indstillinger
 STR_5858    :{SMALLFONT}{BLACK}Use GPU for displaying instead of CPU. Improves compatibility with screen capture software. May slightly decrease performance.
 STR_5859    :{SMALLFONT}{BLACK}Enables frame tweening for visually{NEWLINE}smoother gameplay. When disabled,{NEWLINE}the game will run at 40 FPS.
 STR_5860    :Toggle original/decompiled track drawing
@@ -3336,7 +3335,7 @@ STR_5861    :Key verification failure.
 STR_5862    :Block unknown players.
 STR_5863    :{SMALLFONT}{BLACK}Only allow players with known keys to join.
 STR_5864    :This server only allows whitelisted players to connect.
-STR_5865    :Log chat history
+STR_5865    :Log chat historik
 STR_5866    :{SMALLFONT}{BLACK}Logs all chat history to files in your user directory.
 STR_5867    :{WINDOW_COLOUR_2}Provider Name: {BLACK}{STRING}
 STR_5868    :{WINDOW_COLOUR_2}Provider E-mail: {BLACK}{STRING}
