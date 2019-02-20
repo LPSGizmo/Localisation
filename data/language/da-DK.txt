@@ -1184,7 +1184,6 @@ STR_1807    :Kontrolfejl
 STR_1808    :{WINDOW_COLOUR_2}Sidste nedbrud: {BLACK}{STRINGID}
 STR_1809    :{WINDOW_COLOUR_2}Nuværende nedbrud: {OUTLINE}{RED}{STRINGID}
 STR_1810    :{WINDOW_COLOUR_2}Bærer:
-
 STR_1811    :Kan ikke bygge det her...
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
 STR_1813    :Forskellige objekter
@@ -3764,15 +3763,15 @@ STR_6290    :Basis protokol
 STR_6291    :Kommando
 STR_6292    :Kort
 STR_6293    :B
-STR_6294    :KiB
-STR_6295    :MiB
-STR_6296    :GiB
-STR_6297    :TiB
+STR_6294    :KB
+STR_6295    :MB
+STR_6296    :GB
+STR_6297    :TB
 STR_6298    :{STRING}/sek
 STR_6299    :Hent alt
-STR_6300    :{SMALLFONT}{BLACK}Hent alle manglende objekter hvis de er tilgængelige online.
-STR_6301    :{SMALLFONT}{BLACK}Kopier det valgte objekt til udklipsholder.
-STR_6302    :{SMALLFONT}{BLACK}Kopier hele listen af manglende objekter til udklipsholderen.
+STR_6300    :{SMALLFONT}{BLACK}Hent alle manglende objekter, hvis de er tilgængelige online.
+STR_6301    :{SMALLFONT}{BLACK}Kopier det valgte objekt, til udklipsholder.
+STR_6302    :{SMALLFONT}{BLACK}Kopier hele listen, af manglende objekter, til udklipsholderen.
 STR_6303    :Henter objekt ({COMMA16} / {COMMA16}): [{STRING}]
 
 #############
