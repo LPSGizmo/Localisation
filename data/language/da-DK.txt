@@ -3843,4 +3843,12 @@ STR_7014    :Jeg ejer spillet på Steam, men har ikke installeret det endnu.
 STR_7015    :Luk venligst Steam, hvis det kører, og klik derefter på ‘OK’.
 STR_7016    :OpenRCT2 har forsøgt at starte en download i Steam. Åbn Steam og lad det hente spillet. Når Steam er færdig, klik på ‘OK’.
 STR_7017    :Afslut
-
+STR_7018    :{SPRITE}{MOVE_X}{17}{STRINGID}
+STR_7019    :{SPRITE}{MOVE_X}{27}{STRINGID}
+STR_7020    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}{MOVE_X}{36}{STRINGID}
+STR_7021    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}»{MOVE_X}{36}{STRINGID}
+STR_7022    :{STRING} - - 
+STR_7023    :Gør usynlig
+STR_7024    :Gør hele forlystelsen usynlig
+STR_7025    :Gør synlig
+STR_7026    :Gør hele forlystelsen synlig
